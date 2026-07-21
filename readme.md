@@ -325,7 +325,7 @@ This repository is structured to be test‑friendly due to the separation of con
 
 ---
 
-## How to Submit (for Partnr Task)
+## FINAL CHECK
 
 1. Ensure all changes are committed and pushed to your Git repository.
 2. Confirm the Docker setup works:
